@@ -1,0 +1,33 @@
+*{
+	margin: 2px;
+	padding: 2px;
+}
+body{	
+	background-color: #d9f2d9;
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+}
+header{
+	text-align: center;
+	margin: 8px;
+	font-family: gabriola;
+	height: 100px;
+	width: 100%;
+	font-size: 28px	
+}
+
+dt{
+	text-align: center;
+	font-family: gabriola;
+	font-size: 27px
+	
+}
+li{
+	text-align: center;
+	font-family: gabriola;
+	font-size: 23px
+}
+p{
+	text-align: center;
+}

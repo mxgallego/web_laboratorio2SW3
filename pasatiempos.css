@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: #d9f2d9;
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+	
+}
+header{
+		
+	text-align: center;
+	font-family: gabriola;	
+	font-size: 28px;
+}
+table{
+	margin-top: 5px;
+	caption-side: bottom;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+img{
+	width: 400px;
+	height: 250px;
+	border-radius: 10px;	
+	box-shadow: 5px 5px 0px #b8b894;
+	border: 5px solid #b8b894;
+}
+td{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
